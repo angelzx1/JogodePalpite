@@ -1,0 +1,80 @@
+.botaoreiniciar{
+    background-color: blue;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.game{
+    text-align: center;
+}
+.resultado{
+    text-align: center;
+}
+label{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.enviarnumb {
+    background-color: #002efc; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px;
+  }
+button {
+    background-color: rgb(1, 255, 107); 
+    border: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px;
+    margin-left: 44%;
+  }
+  input{
+      padding: 10px;
+  }
+  .certoouerrado{
+      color: white;
+      font-size: 30px;
+      width: 150px;
+      text-align: center;
+      margin-left: 37%;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      border-radius: 7px;
+    padding: 15px;
+    }
+    .palpites{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+    }
+    .altooubaixo{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 25px;
+    }
+    .campoGame{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+    }
+    .jogo{
+        background-color: rgba(0, 255, 98, 0.897);
+        margin-top: 120px;
+        width: 50%;
+        margin-left: 21%;
+        padding:50px;
+        padding-top: 50px;
+        padding-bottom: 160px;
+        height: 250px;
+        border-radius: 20px;
+        border-style: solid;
+    }
+    body{
+        background-color: #002efc;
+    }
